@@ -8,6 +8,7 @@
 <body>
     <header>
         <h1>Prueba de ramas en Git</h1>
+        <p>Haciendo cambios en el index para subir a Git</p>
     </header>
 
 
