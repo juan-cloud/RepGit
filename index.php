@@ -6,7 +6,10 @@
     <title>Git</title>
 </head>
 <body>
-<h1>Comandos Git</h1>
+    <header>
+        <h1>Comandos Git</h1>
+    </header>
+
 
 <div class="Container">
     <h2>Juan</h2>
