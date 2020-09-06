@@ -7,7 +7,10 @@
 </head>
 <body>
 <h1>Comandos Git</h1>
-<p>Agregando una linea de prueba</p>
+
+<div class="Container">
+    <h2>Juan</h2>
+</div>
     
 </body>
 </html>
