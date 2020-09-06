@@ -7,13 +7,17 @@
 </head>
 <body>
     <header>
-        <h1>Comandos Git</h1>
+        <h1>Prueba de ramas en Git</h1>
     </header>
 
 
 <div class="Container">
     <h2>Juan</h2>
 </div>
+
+<footer>
+    <p>Esta es una pruena de mi rama de Git llamada prueba</p>
+</footer>
     
 </body>
 </html>
