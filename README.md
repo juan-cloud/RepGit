@@ -1,3 +1,3 @@
 # RepGit
-Prueba para subir repos
+Prueba para subir repositorio
 
